@@ -12,7 +12,9 @@
 
 ## 
 
+<div align="center" >
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ascibunyo61&cover_image=true&theme=default&show_offline=false&background_color=ff008077&interchange=false&bar_color=00000077&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+</div>
 
 <!-- Spotify dinleme geçmişi. | Spotify listening history. -->
 <div align="center" >
