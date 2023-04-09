@@ -17,8 +17,6 @@
 </a>
 </p>
 
-<!-- Spotify dinleme geçmişi. | Spotify listening history. -->
-
 ##
 
 <!-- Coffee Man.png -->
