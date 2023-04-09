@@ -8,3 +8,5 @@
   <a href="https://open.spotify.com/user/ascibunyo61?si=3fc6162d7bc54b2e" target"blank_"><img width="17%" src="https://img.shields.io/badge/Spotify%20-191717.svg?&style=for-the-badge&logo=spotify&logoColor=ff0080"></a>
  <a href="https://steamcommunity.com/id/rxbunyo" target"blank_"><img width="15%" src="https://img.shields.io/badge/steam%20-191717.svg?&style=for-the-badge&logo=steam&logoColor=ff0080"></a>
 
+
+<code style="float: right;"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
