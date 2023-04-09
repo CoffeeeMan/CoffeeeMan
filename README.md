@@ -30,7 +30,7 @@
 
 <!-- version -->
 <div align="center">
-<strong style=>Version 1.0</strong>
+<strong style=>Version 1.1</strong>
 </div>
 
 <!--  -->
