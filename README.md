@@ -9,7 +9,7 @@
 <a href="https://steamcommunity.com/id/rxbunyo" target"blank_"><img width="14.16%" src="https://img.shields.io/badge/steam%20-800c4c.svg?&style=for-the-badge&logo=steam&logoColor=ffffff"></a>
 
 <div align="center" >
-<img src="https://spotify-recently-played-readme.vercel.app/api?user=ascibunyo61&count=4" alt="Spotify recently played" style="display: block; margin: 0 auto;">
+<img src="https://spotify-recently-played-readme.vercel.app/api?user=ascibunyo61&count=5&width=545" alt="Spotify recently played" style="display: block; margin: 0 auto;">
 </div>
 
 <div align="center" >
