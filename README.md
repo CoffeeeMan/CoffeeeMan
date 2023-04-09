@@ -1,4 +1,3 @@
-    <div align="center" >
   <img src="https://lanyard-profile-readme.vercel.app/api/406416295349714944?bg=191919&borderRadius=10px&hideDiscrim=true&animated=true">
 </div>
 
