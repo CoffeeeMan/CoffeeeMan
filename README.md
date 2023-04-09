@@ -17,3 +17,7 @@
 <img width="40%" src="https://user-images.githubusercontent.com/126782935/230755579-a0f3c5ff-9da4-411b-887b-aecd762995bf.png">
 </a>
 </div>
+
+<div align="center">
+<strong style="color: red; text-decoration: line-through;">version 1.0</strong>
+</div>
