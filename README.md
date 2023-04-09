@@ -9,7 +9,7 @@
  <a href="https://steamcommunity.com/id/rxbunyo" target"blank_"><img width="14.15%" src="https://img.shields.io/badge/steam%20-800c4c.svg?&style=for-the-badge&logo=steam&logoColor=ffffff"></a>
 
  <a href="https://discord.com/users/406416295349714944">
-<img width="37%" src="https://user-images.githubusercontent.com/126782935/230755579-a0f3c5ff-9da4-411b-887b-aecd762995bf.png">
+<img width="40%" src="https://user-images.githubusercontent.com/126782935/230755579-a0f3c5ff-9da4-411b-887b-aecd762995bf.png">
  </a>
  
  
