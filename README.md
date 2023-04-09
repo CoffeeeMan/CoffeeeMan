@@ -1,5 +1,5 @@
 <div align="center" >
-<img width="70%" src="https://lanyard-profile-readme.vercel.app/api/406416295349714944?bg=ff008077">
+<img width="70%" src="https://lanyard-profile-readme.vercel.app/api/406416295349714944?bg=ff008077borderRadius=:90px">
 </div>
  
 <p align="center">
