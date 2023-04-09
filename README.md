@@ -1,1 +1,1 @@
-[![Discord Presence](https://lanyard.cnrad.dev/api/406416295349714944)](https://discord.com/users/406416295349714944)
+https://camo.githubusercontent.com/bd5263a3e2e34d2f5907d4d833c57d1adbaf4771bf38b21e427a3c0e5d82ef98/68747470733a2f2f6c616e796172642e636e7261642e6465762f6170692f373035363635383133393934303132363935" alt="Discord Presence" data-canonical-src="https://lanyard.cnrad.dev/api/406416295349714944" style="max-width: 100%;
