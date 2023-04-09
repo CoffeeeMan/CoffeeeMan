@@ -12,7 +12,7 @@
 
 <p align="center">
 <a href="https://spotify-github-profile.vercel.app/api/view?uid=ascibunyo61&redirect=true">
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=ascibunyo61&cover_image=true&theme=default&show_offline=false&background_color=ff008077&interchange=false&bar_color=00000077&bar_color_cover=true" alt="Spotify" />
+<img src="https://spotify-github-profile.vercel.app/api/view?uid=ascibunyo61&cover_image=true&theme=default&show_offline=false&background_color=ff008077&interchange=true&bar_color=00000077&bar_color_cover=true" alt="Spotify" />
 </a>
 </p>
 
