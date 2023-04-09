@@ -1,5 +1,5 @@
  <div align="center" >
- <a href="https://discord.com/users/406416295349714944"theme=dark title="Discord Profile"><img width="70%" src="https://lanyard-profile-readme.vercel.app/api/406416295349714944?&borderRadius=10px"> theme=:dark
+ <a href="https://discord.com/users/406416295349714944" theme=dark title="Discord Profile"><img width="70%" src="https://lanyard-profile-readme.vercel.app/api/406416295349714944?&borderRadius=10px"> theme=:dark
 </div>
  
   <p align="center">
