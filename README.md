@@ -12,6 +12,8 @@
 
 ## 
 
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ascibunyo61&cover_image=true&theme=default&show_offline=false&background_color=ff008077&interchange=false&bar_color=00000077&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+
 <!-- Spotify dinleme geçmişi. | Spotify listening history. -->
 <div align="center" >
 <img src="https://spotify-recently-played-readme.vercel.app/api?user=ascibunyo61&count=4&width=545&unique=true" alt="Spotify recently played" style="display: block; margin: 0 auto;">
