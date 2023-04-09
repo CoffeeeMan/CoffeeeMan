@@ -1,1 +1,1 @@
-[![Discord Presence](https://lanyard.cnrad.dev/api/:id)](https://discord.com/users/406416295349714944)theme=:dark
+[![Discord Presence](https://lanyard.cnrad.dev/api/:id)](https://discord.com/users/406416295349714944)
