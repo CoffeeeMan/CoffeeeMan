@@ -30,7 +30,8 @@
      ╚═══════════════════════════════════════════════════════════════════════════════════════════════════╝ -->
 <div align="center" >
 <a href="https://discord.com/users/406416295349714944">
-<img width="40%" src="https://user-images.githubusercontent.com/126782935/230755579-a0f3c5ff-9da4-411b-887b-aecd762995bf.png">
+<!--<img width="40%" src="https://user-images.githubusercontent.com/126782935/230755579-a0f3c5ff-9da4-411b-887b-aecd762995bf.png"-->
+<img width="40%" src="https://user-images.githubusercontent.com/126782935/230879024-c958ff32-a9a0-4915-b640-cfe9430f9447.png">
 </a>
 </div>
 
