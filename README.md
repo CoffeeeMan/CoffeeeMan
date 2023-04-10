@@ -15,8 +15,7 @@
 <p align="center">
 <a href="https://spotify-github-profile.vercel.app/api/view?uid=ascibunyo61&redirect=true">
 <img src="https://spotify-github-profile.vercel.app/api/view?uid=ascibunyo61&cover_image=true&theme=default&show_offline=true&background_color=212121&interchange=true&bar_color=212121&bar_color_cover=true" alt="Spotify" />
-
-<img src="https://spotify-recently-played-readme.vercel.app/api?user=ascibunyo61&count=7&width=320"/>
+<img src="https://spotify-recently-played-readme.vercel.app/api?user=ascibunyo61&count=7&width=320" />
 
 ##
 
@@ -31,7 +30,7 @@
 
 <!-- version -->
 <div align="center">
-<strong style=>Version 1.1</strong>
+<strong style=>Version 1.1.5</strong>
 </div>
 
 <!--  -->
