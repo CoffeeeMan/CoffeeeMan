@@ -18,7 +18,7 @@
 </a>
 </p>
 <p align="center">
-<img src="https://spotify-recently-played-readme.vercel.app/api?user=ascibunyo61&count=2&width=250"/>
+<img src="https://spotify-recently-played-readme.vercel.app/api?user=ascibunyo61&count=2&width=300"/>
 
 ##
 
