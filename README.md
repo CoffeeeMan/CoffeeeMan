@@ -30,8 +30,10 @@
      ╚═══════════════════════════════════════════════════════════════════════════════════════════════════╝ -->
 <div align="center" >
 <a href="https://discord.com/users/406416295349714944">
-<!-- Eski CoffeeMan.png <img width="40%" src="https://user-images.githubusercontent.com/126782935/230755579-a0f3c5ff-9da4-411b-887b-aecd762995bf.png"-->
-<img width="40%" src="https://user-images.githubusercontent.com/126782935/230879024-c958ff32-a9a0-4915-b640-cfe9430f9447.png">
+<!-- Eski CoffeeMan.png'ler <img width="40%" src="https://user-images.githubusercontent.com/126782935/230755579-a0f3c5ff-9da4-411b-887b-aecd762995bf.png"
+<img width="40%" src="https://user-images.githubusercontent.com/126782935/230879024-c958ff32-a9a0-4915-b640-cfe9430f9447.png">-->
+<img width="40%" src="https://user-images.githubusercontent.com/126782935/231356352-41966633-9b04-4e2c-b9d1-858d8b89afcd.png"
+
 </a>
 </div>
 
