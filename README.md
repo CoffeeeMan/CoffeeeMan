@@ -61,7 +61,7 @@ I almost never switch off my music.
      ║ Version: Version 1.1.6                                                                            ║
      ╚═══════════════════════════════════════════════════════════════════════════════════════════════════╝ -->
 <div align="center">
-<strong style=>Version 1.1.6 - Coffee Man Edition</strong>
+<strong style=>Version 1.1.8 - Coffee Man Edition</strong>
 </div>
 
 <!-- ╔═══════════════════════════════════════════════════════════════════════════════════════════════════╗
