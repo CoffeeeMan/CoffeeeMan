@@ -23,7 +23,7 @@ You can easily reach me on my<a href="https://discord.com/users/4064162953497149
      ╚═══════════════════════════════════════════════════════════════════════════════════════════════════╝ -->
 <p align="center">
 <a href="https://discord.gg/SxWKF4HsSY" target"blank_"><img width="17%" src="https://img.shields.io/badge/Discord%20-000000.svg?&style=for-the-badge&logo=discord&logoColor=ffffff"></a>
-<a href="https://www.youtube.com/@rxbunyo" target"blank_"><img width="16%" src="https://img.shields.io/badge/YouTube%20-000000.svg?&style=for-the-badge&logo=youtube&logoColor=ffffff"></a>
+<a href="https://www.youtube.com/@rxbunyo" target"blank_"><img width="17%" src="https://img.shields.io/badge/YouTube%20-000000.svg?&style=for-the-badge&logo=youtube&logoColor=ffffff"></a>
 <a href="https://open.spotify.com/user/ascibunyo61?si=3fc6162d7bc54b2e" target"blank_"><img width="16.5%" src="https://img.shields.io/badge/Spotify%20-000000.svg?&style=for-the-badge&logo=spotify&logoColor=ffffff"></a>
 <a href="https://steamcommunity.com/id/rxbunyo" target"blank_"><img width="14.16%" src="https://img.shields.io/badge/steam%20-000000.svg?&style=for-the-badge&logo=steam&logoColor=ffffff"></a> 
 <!-- ╔═══════════════════════════════════════════════════════════════════════════════════════════════════╗
