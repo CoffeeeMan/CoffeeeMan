@@ -26,17 +26,6 @@
 <a href="https://github.com/RXBUNYO" target"blank_"><img width="15.5%" src="https://img.shields.io/badge/GitHub%20-000000.svg?&style=for-the-badge&logo=github&logoColor=ffffff"></a>
 <a href="https://open.spotify.com/user/ascibunyo61?si=3fc6162d7bc54b2e" target"blank_"><img width="16.5%" src="https://img.shields.io/badge/Spotify%20-000000.svg?&style=for-the-badge&logo=spotify&logoColor=ffffff"></a>
 <a href="https://steamcommunity.com/id/rxbunyo" target"blank_"><img width="14.16%" src="https://img.shields.io/badge/steam%20-000000.svg?&style=for-the-badge&logo=steam&logoColor=ffffff"></a> 
-     
-<!-------------------- About me -------------------->
-<body>
-    <h2>Hello, I'm Coffee Man!</h2>
-    <em>I'm not an ancient person, but I spend most of my time in front of the computer.<br>
-    I make backgrounds on Wallpaper Engine, you can check out my Steam workshop if you want.<br>
-    I can also make .theme files on Discord BD, I'm not very good at it, I just do what I can :D.<br>
-    You can easily reach me on my Discord account.</p></i>
-  </div>
-</body>
-
 ##
 <!-- ╔═══════════════════════════════════════════════════════════════════════════════════════════════════╗
      ║ Spotify                                                                                           ║
