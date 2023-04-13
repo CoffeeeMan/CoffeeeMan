@@ -27,7 +27,6 @@ You can easily reach me on my<a href="https://discord.com/users/4064162953497149
 <a href="https://github.com/RXBUNYO" target"blank_"><img width="15.5%" src="https://img.shields.io/badge/GitHub%20-000000.svg?&style=for-the-badge&logo=github&logoColor=ffffff"></a>
 <a href="https://open.spotify.com/user/ascibunyo61?si=3fc6162d7bc54b2e" target"blank_"><img width="16.5%" src="https://img.shields.io/badge/Spotify%20-000000.svg?&style=for-the-badge&logo=spotify&logoColor=ffffff"></a>
 <a href="https://steamcommunity.com/id/rxbunyo" target"blank_"><img width="14.16%" src="https://img.shields.io/badge/steam%20-000000.svg?&style=for-the-badge&logo=steam&logoColor=ffffff"></a> 
-
 <!-- ╔═══════════════════════════════════════════════════════════════════════════════════════════════════╗
      ║ Spotify                                                                                           ║
      ╚═══════════════════════════════════════════════════════════════════════════════════════════════════╝ -->
@@ -36,7 +35,6 @@ You can easily reach me on my<a href="https://discord.com/users/4064162953497149
 I almost never switch off my music.
 </details>
 </div>
-<!---->
 <p align="center">
 <a href="https://spotify-github-profile.vercel.app/api/view?uid=ascibunyo61&redirect=true">
 <img src="https://spotify-github-profile.vercel.app/api/view?uid=ascibunyo61&cover_image=true&theme=default&show_offline=true&background_color=212121&interchange=true&bar_color=212121&bar_color_cover=true" alt="Spotify" />
