@@ -1,6 +1,16 @@
 <!-- ╔═══════════════════════════════════════════════════════════════════════════════════════════════════╗
      ║ RXBUNYO README.md                                                                                 ║
      ╚═══════════════════════════════════════════════════════════════════════════════════════════════════╝ -->
+
+<body>
+    <h2>Hello, I'm Coffee Man!</h2>
+    <em>I'm not an ancient person, but I spend most of my time in front of the computer.<br>
+    I make backgrounds on Wallpaper Engine, you can check out my Steam workshop if you want.<br>
+    I can also make .theme files on Discord BD, I'm not very good at it, I just do what I can :D.<br>
+    You can easily reach me on my Discord account.</p></i>
+  </div>
+</body>
+
 ##
 <!---------- Transfers your Discord profile. | Discord profilinizi aktarır. ---------->
 <div align="center" >
