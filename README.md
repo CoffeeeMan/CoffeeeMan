@@ -32,7 +32,7 @@ You can easily reach me on my<a href="https://discord.com/users/4064162953497149
 <p align="center">
 <a href="https://spotify-github-profile.vercel.app/api/view?uid=ascibunyo61&redirect=true">
 <img src="https://spotify-github-profile.vercel.app/api/view?uid=ascibunyo61&cover_image=true&theme=default&show_offline=true&background_color=000000&interchange=true&bar_color=000000&bar_color_cover=true" alt="Spotify" />
-<!-- <img src="https://spotify-recently-played-readme.vercel.app/api?user=ascibunyo61&count=7&width=320" /> -- ÇIKARTILDI -->
+<!-- <img src="https://spotify-recently-played-readme.vercel.app/api?user=ascibunyo61&count=7&width=320" /> -- REMOVED -->
 <div align="center">
 <details>
 <summary></summary>
@@ -42,12 +42,12 @@ I almost never switch off my music.
      
 ## 
 <!-- ╔═══════════════════════════════════════════════════════════════════════════════════════════════════╗
-     ║ CoffeeMan.apng                                                                                     ║
+     ║ CoffeeMan.apng                                                                                    ║
      ╚═══════════════════════════════════════════════════════════════════════════════════════════════════╝ -->
 <div align="center" >
 <a href="https://discord.com/users/406416295349714944">
-<!--<img width="40%" src="https://user-images.githubusercontent.com/126782935/230755579-a0f3c5ff-9da4-411b-887b-aecd762995bf.png"
-<img width="40%" src="https://user-images.githubusercontent.com/126782935/230879024-c958ff32-a9a0-4915-b640-cfe9430f9447.png">----- ÇIKARTILDI -->
+<!--  <img width="40%" src="https://user-images.githubusercontent.com/126782935/230755579-a0f3c5ff-9da4-411b-887b-aecd762995bf.png"  -- REMOVED -->
+<!--  <img width="40%" src="https://user-images.githubusercontent.com/126782935/230879024-c958ff32-a9a0-4915-b640-cfe9430f9447.png"  -- REMOVED -->
 <img width="40%" src="https://user-images.githubusercontent.com/126782935/231356352-41966633-9b04-4e2c-b9d1-858d8b89afcd.png">
 </a>
 <div align="center">
