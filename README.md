@@ -1,7 +1,6 @@
 <!-- ╔═══════════════════════════════════════════════════════════════════════════════════════════════════╗
      ║ RXBUNYO README.md                                                                                 ║
      ╚═══════════════════════════════════════════════════════════════════════════════════════════════════╝ -->
-
 <body>
 <h2>Hello, I'm Coffee Man!</h2>
 <em>I'm not an ancient person, but I spend most of my time in front of the computer.<br>
@@ -42,7 +41,6 @@ I almost never switch off my music.
 <a href="https://spotify-github-profile.vercel.app/api/view?uid=ascibunyo61&redirect=true">
 <img src="https://spotify-github-profile.vercel.app/api/view?uid=ascibunyo61&cover_image=true&theme=default&show_offline=true&background_color=212121&interchange=true&bar_color=212121&bar_color_cover=true" alt="Spotify" />
 <img src="https://spotify-recently-played-readme.vercel.app/api?user=ascibunyo61&count=7&width=320" />
-
 
  ## 
 <!-- ╔═══════════════════════════════════════════════════════════════════════════════════════════════════╗
