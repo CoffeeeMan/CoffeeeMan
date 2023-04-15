@@ -36,7 +36,7 @@ You can easily reach me on my<a href="https://discord.com/users/4064162953497149
 <div align="center">
 <details>
 <summary></summary>
-I almost never switch off my music.
+<b>I almost never switch off my music.</b>
 </details>
 </div>
      
@@ -51,7 +51,7 @@ I almost never switch off my music.
 <img width="40%" src="https://user-images.githubusercontent.com/126782935/231356352-41966633-9b04-4e2c-b9d1-858d8b89afcd.png">
 </a>
 <div align="center">
-<strong style=>THE MAN FROM COFFEE HELL</strong>
+<strong style=><b>THE MAN FROM COFFEE HELL</b></strong>
 </div>
 
 ##
@@ -59,7 +59,7 @@ I almost never switch off my music.
      ║ Version: Version 1.1.8                                                                            ║
      ╚═══════════════════════════════════════════════════════════════════════════════════════════════════╝ -->
 <div align="center">
-<strong style=>Version 1.1.8 - Coffee Man Edition</strong>
+<strong style=><small>Version 1.1.8 - Coffee Man Edition</small></strong>
 </div>
 
 <!-- ╔═══════════════════════════════════════════════════════════════════════════════════════════════════╗
