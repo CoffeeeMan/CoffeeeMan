@@ -53,6 +53,7 @@ You can easily reach me on my<a href="https://discord.com/users/4064162953497149
 <div align="center">
 <strong style=><b>THE MAN FROM COFFEE HELL</b></strong>
 </div>
+
 ##
 <!-- ╔═══════════════════════════════════════════════════════════════════════════════════════════════════╗
      ║ Version: Version 1.1.8                                                                            ║
