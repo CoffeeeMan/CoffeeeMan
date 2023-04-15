@@ -45,7 +45,7 @@ You can easily reach me on my<a href="https://discord.com/users/4064162953497149
      ║ CoffeeMan.apng                                                                                    ║
      ╚═══════════════════════════════════════════════════════════════════════════════════════════════════╝ -->
 <div align="center" >
-<a href="discord:///users/406416295349714944">
+<a href="https://discord.com/users/406416295349714944">
 <!--  <img width="40%" src="https://user-images.githubusercontent.com/126782935/230755579-a0f3c5ff-9da4-411b-887b-aecd762995bf.png"  -- REMOVED -->
 <!--  <img width="40%" src="https://user-images.githubusercontent.com/126782935/230879024-c958ff32-a9a0-4915-b640-cfe9430f9447.png"  -- REMOVED -->
 <img width="40%" src="https://user-images.githubusercontent.com/126782935/231356352-41966633-9b04-4e2c-b9d1-858d8b89afcd.png">
