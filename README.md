@@ -33,6 +33,8 @@ You can easily reach me on my<a href="https://discord.com/users/4064162953497149
 <a href="https://spotify-github-profile.vercel.app/api/view?uid=ascibunyo61&redirect=true">
 <img src="https://spotify-github-profile.vercel.app/api/view?uid=ascibunyo61&cover_image=true&theme=default&show_offline=true&background_color=000000&interchange=true&bar_color=000000&bar_color_cover=true" alt="Spotify" />
 <!-- <img src="https://spotify-recently-played-readme.vercel.app/api?user=ascibunyo61&count=7&width=320" /> -- REMOVED -->
+
+<!-- Spoiler eki -->
 <div align="center">
 <details>
 <summary></summary>
