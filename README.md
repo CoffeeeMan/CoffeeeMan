@@ -13,4 +13,4 @@
 
 ##
 
-<div align="center"><strong><small>Version 1.2 - Coffee Man Edition - Compact</small></strong></div></body>
+<div align="center"><strong><small>Version 1.2 - Coffee Man Edition</small></strong></div></body> <!-- Compact -->
