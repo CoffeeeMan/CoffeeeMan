@@ -12,3 +12,5 @@
 
 <div align="center"><strong><small>Version 1.2 - Coffee Man Edition</small></strong></div></body>
 <!-- Compact Version -->
+<div align="center">
+<img width="40%" src=https://github.com/CoffeeeMan/CoffeeeMan/assets/126782935/7e031988-9aa1-4985-826e-eedda66ba5e7>
