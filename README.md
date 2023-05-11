@@ -13,7 +13,7 @@
 <div align="center"><strong><small>Version 1.2A - Coffee Man Edition</small></strong></div></body><div align="center"><details><summary></summary><img width="40%" src=https://github.com/CoffeeeMan/CoffeeeMan/assets/126782935/7e031988-9aa1-4985-826e-eedda66ba5e7></details>
 <!-- Compact Version -->
 
-
+<!--
                                                   :7?77777!~^:.                                     
                                               ..::5B7:::^~!?J555Y?~:.                               
                                              .::::.           .:~?YP5J!^                            
@@ -61,3 +61,4 @@
                           .!!:   :7~ ^Y!?.  Y!     :^  !G~!?  .J                                    
                           ..    :^  ?P:.^   ~P      !!  ~~:G  ?~                                    
                                    7G.       ??      ~J~  :B :7                                     
+-->
