@@ -12,7 +12,16 @@
 
 <div align="center"><strong><small>Version 1.2A - Coffee Man Edition</small></strong></div>
 <!-- Compact Version -->
+<div align="center">
+<details>
+<summary></summary>
+<img src="https://komarev.com/ghpvc/?username=your-github-coffeeeman&color=000000&style=for-the-badge&label=Views" alt="Sansürlendi">
+</details>
+</div>
 
+![](https://hit.yhype.me/github/profile?user_id=126782935)
+
+<!-- If you contact me on Discord I can give you the normal version. No need to bother with editing the compact view :D -->
 <!--
                                                   :7?77777!~^:.                                     
                                               ..::5B7:::^~!?J555Y?~:.                               
@@ -62,13 +71,3 @@
                           ..    :^  ?P:.^   ~P      !!  ~~:G  ?~                                    
                                    7G.       ??      ~J~  :B :7                                     
 -->
-<div align="center">
-<details>
-<summary></summary>
-<img src="https://komarev.com/ghpvc/?username=your-github-coffeeeman&color=000000&style=for-the-badge&label=Views" alt="Sansürlendi">
-</details>
-</div>
-
-![](https://hit.yhype.me/github/profile?user_id=126782935)
-
-<!-- If you contact me on Discord I can give you the normal version. No need to bother with editing the compact view :D -->
