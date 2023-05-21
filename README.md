@@ -1,10 +1,3 @@
-<div align="center">
-<details>
-<summary></summary>
-<img src="https://komarev.com/ghpvc/?username=your-github-coffeeeman&color=000000&style=for-the-badge&label=Views" alt="Sansürlendi">
-</details>
-</div>
-
 <body><h3><b>Hello, I'm Coffee Man!</b></h3><em>I'm not an ancient person, but I spend most of my time in front of the computer.<br>I make backgrounds on Wallpaper Engine, you can check out my <a href="https://steamcommunity.com/id/cofffeeman/myworkshopfiles/"><b>Steam workshop</b></a> if you want.<br>I can also make .theme files on Discord BD, I'm not very good at it, I just do what I can :D.<br>You can easily reach me on my <a href="https://discord.com/users/406416295349714944">Discord account.</a></p></i></div>
 
 ##
@@ -69,4 +62,11 @@
                           ..    :^  ?P:.^   ~P      !!  ~~:G  ?~                                    
                                    7G.       ??      ~J~  :B :7                                     
 -->
+<div align="center">
+<details>
+<summary></summary>
+<img src="https://komarev.com/ghpvc/?username=your-github-coffeeeman&color=000000&style=for-the-badge&label=Views" alt="Sansürlendi">
+</details>
+</div>
+
 ![](https://hit.yhype.me/github/profile?user_id=126782935)
