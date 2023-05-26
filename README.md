@@ -10,7 +10,7 @@
 
 ##
 
-<div align="center"><strong><small>Version 1.2A - Coffee Man Edition</small></strong></div>
+<div align="center"><strong><small>Version 1.3 - Coffee Man Edition</small></strong></div>
 <!-- Compact Version -->
 <div align="center"><details><summary></summary><img src="https://komarev.com/ghpvc/?username=your-github-coffeeeman&color=000000&style=for-the-badge&label=Views" alt="Sansürlendi"></details></div>
 
