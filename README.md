@@ -12,12 +12,7 @@
 
 <div align="center"><strong><small>Version 1.2A - Coffee Man Edition</small></strong></div>
 <!-- Compact Version -->
-<div align="center">
-<details>
-<summary></summary>
-<img src="https://komarev.com/ghpvc/?username=your-github-coffeeeman&color=000000&style=for-the-badge&label=Views" alt="Sansürlendi">
-</details>
-</div>
+<div align="center"><details><summary></summary><img src="https://komarev.com/ghpvc/?username=your-github-coffeeeman&color=000000&style=for-the-badge&label=Views" alt="Sansürlendi"></details></div>
 
 ![](https://hit.yhype.me/github/profile?user_id=126782935)
 
