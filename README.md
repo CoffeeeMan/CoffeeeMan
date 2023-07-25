@@ -1,4 +1,4 @@
-<body><h3><b>Hello, I'm Coffee Man!</b></h3><em>I'm not an ancient person, but I spend most of my time in front of the computer.<br>I make backgrounds on Wallpaper Engine, you can check out my <a href="https://steamcommunity.com/id/cofffeeman/myworkshopfiles/"><b>Steam workshop</b></a> if you want.<br>I can also make .theme files on Discord BD, I'm not very good at it, I just do what I can :D.<br>You can easily reach me on my <a href="https://discord.com/users/406416295349714944">Discord account.</a></p></i></div>
+<body><h3><b>Hello, I'm Coffee Man!</b></h3><em>Welcome to my GitHub profile, which I opened because I was bored.</a></p></i></div>
 
 ##
 
