@@ -16,7 +16,6 @@
 
 ![](https://hit.yhype.me/github/profile?user_id=126782935)
 
-<!-- If you contact me on Discord I can give you the normal version. No need to bother with editing the compact view :D -->
 <!--
                                                   :7?77777!~^:.                                     
                                               ..::5B7:::^~!?J555Y?~:.                               
