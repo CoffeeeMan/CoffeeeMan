@@ -6,7 +6,7 @@
 
 #
 
-<div align="center" ><a href="https://discord.com/users/406416295349714944"><img width="45%" src="https://user-images.githubusercontent.com/126782935/231356352-41966633-9b04-4e2c-b9d1-858d8b89afcd.png"></a></div><div align="center"><strong><b>THE MAN FROM COFFEE HELL</b></strong></div>
+<div align="center" ><a href="https://discord.com/users/406416295349714944"><img width="100%" src="https://github.com/CoffeeeMan/CoffeeeMan/assets/126782935/01e2013b-0f5f-4dab-8689-56edf53fd018.gif"></a></div><div align="center"><strong><b>THE MAN FROM COFFEE HELL</b></strong></div>
 
 #
 
